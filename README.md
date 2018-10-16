@@ -1,3 +1,3 @@
-# runman
-> a man run 
+# Hilo Game
+> just show my thinks
 
